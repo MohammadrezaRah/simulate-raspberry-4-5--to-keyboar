@@ -8,6 +8,7 @@ I've tested it on a Raspberry Pi 4B 8GB model from 2018, running Raspberry Pi OS
 
 > [!IMPORTANT]
 > Install and library are in the [wiki](https://github.com/MohammadrezaRah/simulate-raspberry-4-5--to-keyboar/wiki/install)
+
 > Docs are [here](https://rikka-chunibyo.github.io/hidpi-docs/hidpi.html)
 
 ## Issues
