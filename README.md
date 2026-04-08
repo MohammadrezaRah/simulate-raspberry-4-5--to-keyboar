@@ -7,7 +7,7 @@ I created this because I was getting really annoyed about the lack of info on us
 I've tested it on a Raspberry Pi Zero, Zero W, 4, 4B, 5 model, running Raspberry Pi OS and OS lite (32 or 64-bit), Debian Bookworm; which worked fine.
 
 > [!IMPORTANT]
-> Install and library are in the [wiki](https://github.com/MohammadrezaRah/simulate-raspberry-4-5--to-keyboar/wiki/install)
+> Install and library are in the [**wiki**](https://github.com/MohammadrezaRah/simulate-raspberry-4-5--to-keyboar/wiki/install)
 
 > Docs are [here](https://rikka-chunibyo.github.io/hidpi-docs/hidpi.html)
 
